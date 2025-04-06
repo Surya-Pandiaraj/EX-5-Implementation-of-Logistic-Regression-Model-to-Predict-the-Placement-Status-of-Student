@@ -88,7 +88,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## OUTPUT :
 
-## DARA HEAD 
+## DATA HEAD 
 
 ![Screenshot 2025-03-28 201701](https://github.com/user-attachments/assets/16e9446b-eacb-4b80-9a5a-29daa8a1240f)
 
